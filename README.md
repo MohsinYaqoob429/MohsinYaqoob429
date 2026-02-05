@@ -1,12 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b1220&height=120&section=header" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=transparent&text=Mohsin%20Yaqoob&fontColor=0ea5e9&fontSize=42&height=120"
+  />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="520" />
-</p>
-
-<h3 align="center">Mohsin Yaqoob</h3>
 <p align="center">
 Cyber Security Learner · Muzaffarabad, Pakistan
 </p>
@@ -14,13 +11,13 @@ Cyber Security Learner · Muzaffarabad, Pakistan
 ---
 
 ### 👣 About
-Walking a focused path into **Cyber Security** — learning quietly, building skill daily,  
-and understanding systems by how they break and how they’re defended.
+I’m learning **Cyber Security** with a focus on strong fundamentals, quiet progress,  
+and understanding systems deeply rather than rushing results.
 
 - 🔐 Cyber Security student  
 - 🐧 Linux & networking fundamentals  
 - 🌐 Web & network security basics  
-- 🎯 Long-term growth over shortcuts  
+- 🎯 Long-term growth mindset  
 
 ---
 
@@ -31,16 +28,16 @@ and understanding systems by how they break and how they’re defended.
 
 ---
 
-### 🧠 Current Direction
+### 🧠 Current Focus
 - Linux internals & command line  
-- Networking fundamentals (TCP/IP, DNS, HTTP)  
+- Networking (TCP/IP, DNS, HTTP)  
 - Web application security  
 - Ethical hacking foundations  
 - Recon & OSINT  
 
 ---
 
-### 📊 Progress
+### 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohsinyaqoob&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
@@ -56,5 +53,5 @@ and understanding systems by how they break and how they’re defended.
 </p>
 
 <p align="center">
-  <i>Walking forward. Learning daily.</i>
+  <i>Focused. Learning. Building.</i>
 </p>
