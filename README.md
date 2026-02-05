@@ -1,30 +1,30 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b1220&height=140&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b1220&height=120&section=header" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="520" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="520" />
 </p>
 
 <h3 align="center">Mohsin Yaqoob</h3>
 <p align="center">
-Cyber Security Learner · Muzaffarabad
+Cyber Security Learner · Muzaffarabad, Pakistan
 </p>
 
 ---
 
 ### 👣 About
-I’m walking the long road into **Cyber Security** —  
-learning systems, understanding failures, and building skills quietly.
+Walking a focused path into **Cyber Security** — learning quietly, building skill daily,  
+and understanding systems by how they break and how they’re defended.
 
 - 🔐 Cyber Security student  
-- 🐧 Linux & Networking learner  
-- 🌐 Web & Network Security fundamentals  
-- 🎯 Focused on growth, not noise  
+- 🐧 Linux & networking fundamentals  
+- 🌐 Web & network security basics  
+- 🎯 Long-term growth over shortcuts  
 
 ---
 
-### 🛠️ Tools I’m Learning
+### 🛠️ Tools & Tech (Learning)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,html,css" />
 </p>
@@ -32,10 +32,10 @@ learning systems, understanding failures, and building skills quietly.
 ---
 
 ### 🧠 Current Direction
-- Linux & system basics  
-- Networking fundamentals  
+- Linux internals & command line  
+- Networking fundamentals (TCP/IP, DNS, HTTP)  
 - Web application security  
-- Ethical hacking concepts  
+- Ethical hacking foundations  
 - Recon & OSINT  
 
 ---
