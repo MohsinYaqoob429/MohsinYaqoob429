@@ -38,13 +38,15 @@ and understanding systems deeply rather than rushing results.
 ---
 
 ### 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohsinyaqoob&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohsinyaqoob&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinyaqoob&theme=tokyonight&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=mohsinyaqoob&label=views" />
 </p>
+
 
 ---
 
