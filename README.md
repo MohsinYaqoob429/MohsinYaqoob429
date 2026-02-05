@@ -37,19 +37,6 @@ and understanding systems deeply rather than rushing results.
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohsinyaqoob&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohsinyaqoob&label=views" />
-</p>
-
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohsinyaqoob&label=views&color=0ea5e9&style=flat" />
 </p>
